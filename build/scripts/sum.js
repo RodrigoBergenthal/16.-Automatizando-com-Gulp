@@ -1,1 +1,1 @@
-function ಠ_ಠ268(o,r){return o+r}module.ಠ_ಠ269=ಠ_ಠ268;
+function ಠ_ಠ108(i,r){return i+r}function ಠ_ಠ109(i,r){return i-r}function ಠ_ಠ110(i,r){return i*r}function ಠ_ಠ111(i,r){if(0!==r)return i/r;throw new Error("Divisão por zero")}module.ಠ_ಠ112={ಠ_ಠ108:ಠ_ಠ108,ಠ_ಠ109:ಠ_ಠ109,ಠ_ಠ110:ಠ_ಠ110,ಠ_ಠ111:ಠ_ಠ111};
