@@ -14,7 +14,7 @@ function dividir(a, b) {
     if (b !== 0) {
         return a / b;
     } else {
-        throw new Error('Divisão por zero');
+        throw new Error('div zero');
     }
 }
 
